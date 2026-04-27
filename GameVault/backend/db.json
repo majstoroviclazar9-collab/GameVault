@@ -1,0 +1,1224 @@
+{
+  "orders": [
+    {
+      "id": "ord_b45d75132bc755ad",
+      "userId": "b7575c19-437a-43c3-a320-ab93806dabbf",
+      "items": [
+        {
+          "id": "g002",
+          "title": "Baldur's Gate 3",
+          "cover": "https://picsum.photos/seed/baldurs-gate-3/640/900",
+          "price": 69.99,
+          "quantity": 3,
+          "subtotal": 209.97
+        }
+      ],
+      "total": 209.97,
+      "currency": "EUR",
+      "status": "paid",
+      "payment": {
+        "provider": "Kartično plaćanje",
+        "intentId": "pi_test_31ae316eca90c48b0246",
+        "last4": "4242"
+      },
+      "createdAt": "2026-04-26T18:31:47.604Z"
+    },
+    {
+      "id": "ord_6caa11c236ed67ec",
+      "userId": "bc7bfd88-66f5-4c66-9b80-5fe3b7ab2778",
+      "items": [
+        {
+          "id": "g030",
+          "title": "Stardew Valley",
+          "cover": "https://picsum.photos/seed/stardew-valley/640/900",
+          "originalPrice": 14.99,
+          "discountPercent": 30,
+          "price": 10.49,
+          "quantity": 3,
+          "subtotal": 31.47
+        }
+      ],
+      "total": 31.47,
+      "currency": "EUR",
+      "status": "paid",
+      "shippingAddress": {
+        "email": "masjtorovic123@gmail.com",
+        "fullName": "Lazar",
+        "phone": "0665532486",
+        "country": "Srbija",
+        "city": "Sopot",
+        "postalCode": "11200",
+        "street": "Vojvode Mišića",
+        "apartment": ""
+      },
+      "payment": {
+        "provider": "Kartično plaćanje",
+        "intentId": "pi_test_59a1f385c64fda7f2e7d",
+        "last4": "4242"
+      },
+      "createdAt": "2026-04-26T20:03:46.757Z"
+    },
+    {
+      "id": "ord_266261bb9ee205d3",
+      "userId": "bc7bfd88-66f5-4c66-9b80-5fe3b7ab2778",
+      "items": [
+        {
+          "id": "g007",
+          "title": "The Witcher 3: Wild Hunt",
+          "cover": "https://picsum.photos/seed/the-witcher-3/640/900",
+          "originalPrice": 29.99,
+          "discountPercent": 35,
+          "price": 19.49,
+          "quantity": 4,
+          "subtotal": 77.96
+        }
+      ],
+      "total": 77.96,
+      "currency": "EUR",
+      "status": "paid",
+      "shippingAddress": {
+        "email": "masjtorovic123@gmail.com",
+        "fullName": "Lazar",
+        "phone": "0665532486",
+        "country": "Srbija",
+        "city": "Sopot",
+        "postalCode": "11200",
+        "street": "Pavlo Pavlinovic",
+        "apartment": ""
+      },
+      "payment": {
+        "provider": "Kartično plaćanje",
+        "intentId": "pi_test_f508334976a76c396d01",
+        "last4": "4242"
+      },
+      "createdAt": "2026-04-26T20:05:06.748Z"
+    },
+    {
+      "id": "ord_034d1ce7455bbedb",
+      "userId": "b7575c19-437a-43c3-a320-ab93806dabbf",
+      "items": [
+        {
+          "id": "g007",
+          "title": "The Witcher 3: Wild Hunt",
+          "cover": "https://picsum.photos/seed/the-witcher-3/640/900",
+          "originalPrice": 29.99,
+          "discountPercent": 35,
+          "price": 19.49,
+          "quantity": 1,
+          "subtotal": 19.49
+        }
+      ],
+      "total": 19.49,
+      "currency": "EUR",
+      "status": "paid",
+      "shippingAddress": {
+        "email": "majstoroviclazar9@gmail.com",
+        "fullName": "Lazar",
+        "phone": "0665532482",
+        "country": "Srbija",
+        "city": "Beograd",
+        "postalCode": "11200",
+        "street": "Vojvode Mišića 24",
+        "apartment": ""
+      },
+      "payment": {
+        "provider": "Kartično plaćanje",
+        "intentId": "pi_test_b018072041b3a356b2ec",
+        "last4": "4242"
+      },
+      "createdAt": "2026-04-26T20:48:36.269Z"
+    },
+    {
+      "id": "ord_f5875c8a66d54ac2",
+      "userId": "2f6610b9-9fbd-4349-8c13-1ebcfee48152",
+      "items": [
+        {
+          "id": "g007",
+          "title": "The Witcher 3: Wild Hunt",
+          "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png",
+          "originalPrice": 29.99,
+          "discountPercent": 35,
+          "price": 19.49,
+          "quantity": 2,
+          "subtotal": 38.98
+        }
+      ],
+      "total": 38.98,
+      "currency": "EUR",
+      "status": "paid",
+      "shippingAddress": {
+        "email": "majstoroviclazar9@gmail.com",
+        "fullName": "Lazar",
+        "phone": "0665543789",
+        "country": "Srbija",
+        "city": "Beograd",
+        "postalCode": "11255",
+        "street": "Vojvode Mišića 24",
+        "apartment": ""
+      },
+      "payment": {
+        "provider": "Kartično plaćanje",
+        "intentId": "pi_test_5a6f3e40dcb620fb20e8",
+        "last4": "4242"
+      },
+      "createdAt": "2026-04-26T21:46:30.543Z"
+    },
+    {
+      "id": "ord_db124842862df779",
+      "userId": "e4c0ce85-2caf-4711-a716-6045e29ea3c4",
+      "items": [
+        {
+          "id": "g010",
+          "title": "Grand Theft Auto V",
+          "cover": "https://www.gamespot.com/a/uploads/original/mig/6/8/4/4/2286844-gtalogo-big_61199_screen.jpg",
+          "originalPrice": 29.99,
+          "discountPercent": 0,
+          "price": 29.99,
+          "quantity": 2,
+          "subtotal": 59.98
+        }
+      ],
+      "total": 59.98,
+      "currency": "EUR",
+      "status": "paid",
+      "shippingAddress": {
+        "email": "0001qwqwf@gmail.com",
+        "fullName": "OOP",
+        "phone": "099876543",
+        "country": "Srbija",
+        "city": "Beograd",
+        "postalCode": "12333",
+        "street": "Pavlo Pavlinovic",
+        "apartment": ""
+      },
+      "payment": {
+        "provider": "Kartično plaćanje",
+        "intentId": "pi_test_94fb4a8cdfa2eaf25985",
+        "last4": "4242"
+      },
+      "createdAt": "2026-04-27T11:25:32.451Z"
+    },
+    {
+      "id": "ord_7ea2a45ccf7c6017",
+      "userId": "u_admin",
+      "items": [
+        {
+          "id": "g029",
+          "title": "Cities: Skylines II",
+          "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2409/6ddb1f25a25495acc66d4edb1903146531912de496c16097.jpg",
+          "originalPrice": 49.99,
+          "discountPercent": 0,
+          "price": 49.99,
+          "quantity": 3,
+          "subtotal": 149.97
+        }
+      ],
+      "total": 149.97,
+      "currency": "EUR",
+      "status": "paid",
+      "shippingAddress": {
+        "email": "admin@gamevault.test",
+        "fullName": "Admin",
+        "phone": "0665532456",
+        "country": "Srbija",
+        "city": "Beograd",
+        "postalCode": "11255",
+        "street": "Vojvode Mišića 23",
+        "apartment": ""
+      },
+      "payment": {
+        "provider": "Kartično plaćanje",
+        "intentId": "pi_test_1f402c46b2d7b7fd7b62",
+        "last4": "4242"
+      },
+      "createdAt": "2026-04-27T12:10:37.736Z"
+    }
+  ],
+  "games": [
+    {
+      "id": "g001",
+      "title": "Elden Ring",
+      "slug": "elden-ring",
+      "genres": [
+        "Action RPG",
+        "Adventure",
+        "Soulslike"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "PlayStation Store",
+        "Xbox Store"
+      ],
+      "price": 59.99,
+      "rating": 4.9,
+      "releaseYear": 2022,
+      "stock": 42,
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/YMUoJUYNX0xWk6eTKuZLr5Iw.jpg",
+      "edition": "Standard",
+      "ageRating": "16+",
+      "description": "Ogroman fantasy svet, zahtevne borbe i sloboda istraživanja za igrače koji vole izazov.",
+      "tags": [
+        "open world",
+        "boss fights",
+        "fantasy"
+      ],
+      "discountPercent": 15
+    },
+    {
+      "id": "g002",
+      "title": "Baldur's Gate 3",
+      "slug": "baldurs-gate-3",
+      "genres": [
+        "RPG",
+        "Strategy",
+        "Adventure"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "GOG",
+        "PlayStation Store"
+      ],
+      "price": 69.99,
+      "rating": 4.9,
+      "releaseYear": 2023,
+      "stock": 35,
+      "cover": "https://store-images.s-microsoft.com/image/apps.11593.13550459053619040.9c555c73-a698-4992-b0f3-c5084cf18b5e.82a9ea41-c628-4d02-8a0f-d0304eba31c7",
+      "edition": "Digital Deluxe",
+      "ageRating": "18+",
+      "description": "Dubok RPG sa taktičkim borbama, izborima koji menjaju priču i bogatim likovima.",
+      "tags": [
+        "party",
+        "turn based",
+        "story"
+      ]
+    },
+    {
+      "id": "g003",
+      "title": "Cyberpunk 2077",
+      "slug": "cyberpunk-2077",
+      "genres": [
+        "RPG",
+        "Action",
+        "Sci-Fi"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "GOG",
+        "Epic Games"
+      ],
+      "price": 49.99,
+      "rating": 4.6,
+      "releaseYear": 2020,
+      "stock": 64,
+      "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/a757b56d2078be8b09a04e2ad531f1fefafaa129/capsule_616x353.jpg?t=1769690377",
+      "edition": "Ultimate",
+      "ageRating": "18+",
+      "description": "Neonski RPG u futurističkom gradu sa snažnim buildovima, misijama i brutalnom atmosferom.",
+      "tags": [
+        "night city",
+        "story",
+        "open world"
+      ],
+      "discountPercent": 20
+    },
+    {
+      "id": "g004",
+      "title": "Red Dead Redemption 2",
+      "slug": "red-dead-redemption-2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Open World"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "Rockstar Launcher",
+        "PlayStation Store"
+      ],
+      "price": 39.99,
+      "rating": 4.8,
+      "releaseYear": 2019,
+      "stock": 51,
+      "cover": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg",
+      "edition": "Standard",
+      "ageRating": "18+",
+      "description": "Kinematična western avantura sa živim svetom, kampom, misijama i snažnom pričom.",
+      "tags": [
+        "western",
+        "story",
+        "open world"
+      ],
+      "discountPercent": 25
+    },
+    {
+      "id": "g005",
+      "title": "God of War Ragnarok",
+      "slug": "god-of-war-ragnarok",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "PlayStation 5",
+        "PC"
+      ],
+      "launchers": [
+        "PlayStation Store",
+        "Steam"
+      ],
+      "price": 69.99,
+      "rating": 4.8,
+      "releaseYear": 2022,
+      "stock": 27,
+      "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/capsule_616x353.jpg?t=1776465233",
+      "edition": "Standard",
+      "ageRating": "18+",
+      "description": "Moćna akciona avantura sa preciznom borbom, mitologijom i emotivnom pričom.",
+      "tags": [
+        "mythology",
+        "combat",
+        "cinematic"
+      ]
+    },
+    {
+      "id": "g006",
+      "title": "Hogwarts Legacy",
+      "slug": "hogwarts-legacy",
+      "genres": [
+        "Action RPG",
+        "Adventure",
+        "Fantasy"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S",
+        "Nintendo Switch"
+      ],
+      "launchers": [
+        "Steam",
+        "Epic Games",
+        "Nintendo eShop"
+      ],
+      "price": 49.99,
+      "rating": 4.4,
+      "releaseYear": 2023,
+      "stock": 58,
+      "cover": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000014724/72ce0a17215521a167c3da579db4cc48a2f7a52eacc81ad985ba20fd6817fdc2",
+      "edition": "Deluxe",
+      "ageRating": "12+",
+      "description": "Magijska avantura sa školom, čarolijama, istraživanjem i borbom protiv mračnih sila.",
+      "tags": [
+        "magic",
+        "school",
+        "open world"
+      ]
+    },
+    {
+      "id": "g007",
+      "title": "The Witcher 3: Wild Hunt",
+      "slug": "the-witcher-3-wild-hunt",
+      "genres": [
+        "RPG",
+        "Adventure",
+        "Open World"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S",
+        "Nintendo Switch"
+      ],
+      "launchers": [
+        "Steam",
+        "GOG",
+        "Nintendo eShop"
+      ],
+      "price": 29.99,
+      "rating": 4.9,
+      "releaseYear": 2015,
+      "stock": 73,
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png",
+      "edition": "Complete",
+      "ageRating": "18+",
+      "description": "Veliki RPG klasik sa jakim questovima, čudovištima, izborima i atmosferom.",
+      "tags": [
+        "classic",
+        "monsters",
+        "story"
+      ],
+      "discountPercent": 35
+    },
+    {
+      "id": "g008",
+      "title": "Starfield",
+      "slug": "starfield",
+      "genres": [
+        "RPG",
+        "Sci-Fi",
+        "Exploration"
+      ],
+      "platforms": [
+        "PC",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "Xbox Store"
+      ],
+      "price": 69.99,
+      "rating": 4.1,
+      "releaseYear": 2023,
+      "stock": 39,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1749757928",
+      "edition": "Constellation",
+      "ageRating": "16+",
+      "description": "Svemirski RPG sa istraživanjem planeta, brodovima, frakcijama i crafting sistemima.",
+      "tags": [
+        "space",
+        "exploration",
+        "ships"
+      ]
+    },
+    {
+      "id": "g009",
+      "title": "Minecraft",
+      "slug": "minecraft",
+      "genres": [
+        "Sandbox",
+        "Survival",
+        "Creative"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S",
+        "Nintendo Switch",
+        "Mobile"
+      ],
+      "launchers": [
+        "Minecraft Launcher",
+        "PlayStation Store",
+        "Xbox Store"
+      ],
+      "price": 24.99,
+      "rating": 4.8,
+      "releaseYear": 2011,
+      "stock": 95,
+      "cover": "https://store-images.s-microsoft.com/image/apps.17382.13510798885735219.9735d495-578c-4a4c-b892-3eb3a780b3a0.d3792486-cf98-40c0-a2c1-d6443f0e2b70",
+      "edition": "Java & Bedrock",
+      "ageRating": "7+",
+      "description": "Kreativni sandbox za gradnju, preživljavanje, servere i beskonačno eksperimentisanje.",
+      "tags": [
+        "building",
+        "survival",
+        "multiplayer"
+      ]
+    },
+    {
+      "id": "g010",
+      "title": "Grand Theft Auto V",
+      "slug": "grand-theft-auto-v",
+      "genres": [
+        "Action",
+        "Open World",
+        "Crime"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "Rockstar Launcher",
+        "Epic Games"
+      ],
+      "price": 29.99,
+      "rating": 4.7,
+      "releaseYear": 2015,
+      "stock": 88,
+      "cover": "https://www.gamespot.com/a/uploads/original/mig/6/8/4/4/2286844-gtalogo-big_61199_screen.jpg",
+      "edition": "Premium",
+      "ageRating": "18+",
+      "description": "Kriminalistički open-world hit sa tri protagonista, vozilima, misijama i online modom.",
+      "tags": [
+        "cars",
+        "online",
+        "open world"
+      ]
+    },
+    {
+      "id": "g011",
+      "title": "Forza Horizon 5",
+      "slug": "forza-horizon-5",
+      "genres": [
+        "Racing",
+        "Open World",
+        "Sports"
+      ],
+      "platforms": [
+        "PC",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "Xbox Store"
+      ],
+      "price": 59.99,
+      "rating": 4.6,
+      "releaseYear": 2021,
+      "stock": 45,
+      "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1746471508",
+      "edition": "Standard",
+      "ageRating": "3+",
+      "description": "Brza trkačka igra sa ogromnim mapama, kolekcijom automobila i online eventima.",
+      "tags": [
+        "cars",
+        "racing",
+        "festival"
+      ],
+      "discountPercent": 10
+    },
+    {
+      "id": "g012",
+      "title": "EA Sports FC 25",
+      "slug": "ea-sports-fc-25",
+      "genres": [
+        "Sports",
+        "Simulation"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S",
+        "Nintendo Switch"
+      ],
+      "launchers": [
+        "EA App",
+        "PlayStation Store",
+        "Xbox Store"
+      ],
+      "price": 69.99,
+      "rating": 4,
+      "releaseYear": 2024,
+      "stock": 77,
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMy-g7r7KxaE_pYx6BZ33LypPXNWVojHIWHg&s",
+      "edition": "Standard",
+      "ageRating": "3+",
+      "description": "Fudbalska simulacija sa klubovima, karijerom, taktikama i kompetitivnim online modovima.",
+      "tags": [
+        "football",
+        "clubs",
+        "online"
+      ],
+      "discountPercent": 12
+    },
+    {
+      "id": "g013",
+      "title": "Call of Duty: Modern Warfare III",
+      "slug": "call-of-duty-modern-warfare-iii",
+      "genres": [
+        "Shooter",
+        "Action",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Battle.net",
+        "Steam",
+        "PlayStation Store"
+      ],
+      "price": 69.99,
+      "rating": 4,
+      "releaseYear": 2023,
+      "stock": 33,
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1722/15f4ab1e0fe6a37609b164362a653c0e5bcee98a861d0f10.png",
+      "edition": "Vault",
+      "ageRating": "18+",
+      "description": "Brz FPS fokusiran na multiplayer, loadoute, mape i intenzivne online partije.",
+      "tags": [
+        "fps",
+        "competitive",
+        "loadouts"
+      ]
+    },
+    {
+      "id": "g014",
+      "title": "Fortnite",
+      "slug": "fortnite",
+      "genres": [
+        "Battle Royale",
+        "Shooter",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S",
+        "Nintendo Switch",
+        "Mobile"
+      ],
+      "launchers": [
+        "Epic Games",
+        "PlayStation Store",
+        "Xbox Store"
+      ],
+      "price": 0,
+      "rating": 4.3,
+      "releaseYear": 2017,
+      "stock": 999,
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTZlMmIxM2EtN2Y4Zi00M2ZhLTk3NzgtNjJmZTU0MTQ3YjcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "edition": "Starter Pack",
+      "ageRating": "12+",
+      "description": "Battle royale i kreativni modovi sa sezonskim sadržajem, skinovima i brzim mečevima.",
+      "tags": [
+        "battle royale",
+        "creative",
+        "online"
+      ]
+    },
+    {
+      "id": "g015",
+      "title": "Apex Legends",
+      "slug": "apex-legends",
+      "genres": [
+        "Battle Royale",
+        "Shooter",
+        "Hero"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S",
+        "Nintendo Switch"
+      ],
+      "launchers": [
+        "EA App",
+        "Steam",
+        "PlayStation Store"
+      ],
+      "price": 0,
+      "rating": 4.2,
+      "releaseYear": 2019,
+      "stock": 999,
+      "cover": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1f4hz.jpg",
+      "edition": "Champion Bundle",
+      "ageRating": "16+",
+      "description": "Hero battle royale sa timskom igrom, sposobnostima, rotacijama i preciznim pucanjem.",
+      "tags": [
+        "heroes",
+        "squad",
+        "fps"
+      ]
+    },
+    {
+      "id": "g016",
+      "title": "Valorant",
+      "slug": "valorant",
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Competitive"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "launchers": [
+        "Riot Client"
+      ],
+      "price": 0,
+      "rating": 4.4,
+      "releaseYear": 2020,
+      "stock": 999,
+      "cover": "https://xboxwire.thesourcemediaassets.com/sites/2/2024/08/Val-Console-Launch-Hero-1080-__-GAME-STORES-80b474d3ff38615edd0a-1900x1080.jpg",
+      "edition": "Points Pack",
+      "ageRating": "16+",
+      "description": "Taktički FPS sa agentima, sposobnostima, ekonomijom rundi i kompetitivnim rangom.",
+      "tags": [
+        "tactical",
+        "agents",
+        "ranked"
+      ]
+    },
+    {
+      "id": "g017",
+      "title": "League of Legends",
+      "slug": "league-of-legends",
+      "genres": [
+        "MOBA",
+        "Strategy",
+        "Competitive"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "launchers": [
+        "Riot Client"
+      ],
+      "price": 0,
+      "rating": 4.3,
+      "releaseYear": 2009,
+      "stock": 999,
+      "cover": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/09/league-of-legends.jpeg?fit=1607%2C895&ssl=1",
+      "edition": "Starter",
+      "ageRating": "12+",
+      "description": "Kompetitivna MOBA sa šampionima, timskim borbama, map kontrolom i stalnim sezonama.",
+      "tags": [
+        "moba",
+        "ranked",
+        "team"
+      ]
+    },
+    {
+      "id": "g018",
+      "title": "Dota 2",
+      "slug": "dota-2",
+      "genres": [
+        "MOBA",
+        "Strategy",
+        "Competitive"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "launchers": [
+        "Steam"
+      ],
+      "price": 0,
+      "rating": 4.5,
+      "releaseYear": 2013,
+      "stock": 999,
+      "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/capsule_616x353.jpg?t=1769535998",
+      "edition": "Battle Pass",
+      "ageRating": "12+",
+      "description": "Duboka MOBA sa kompleksnom ekonomijom, herojima, itemima i visokim skill plafonom.",
+      "tags": [
+        "moba",
+        "strategy",
+        "esports"
+      ]
+    },
+    {
+      "id": "g019",
+      "title": "Helldivers 2",
+      "slug": "helldivers-2",
+      "genres": [
+        "Shooter",
+        "Co-op",
+        "Action"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5"
+      ],
+      "launchers": [
+        "Steam",
+        "PlayStation Store"
+      ],
+      "price": 39.99,
+      "rating": 4.6,
+      "releaseYear": 2024,
+      "stock": 48,
+      "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/0d3b55ad9670b934fa6c81f2ef8db8826440bf0e/capsule_616x353.jpg?t=1770747641",
+      "edition": "Super Citizen",
+      "ageRating": "18+",
+      "description": "Kooperativna akcija sa misijama, taktičkim pozivima podrške i haotičnim timskim momentima.",
+      "tags": [
+        "co-op",
+        "sci-fi",
+        "squad"
+      ],
+      "discountPercent": 18
+    },
+    {
+      "id": "g020",
+      "title": "Palworld",
+      "slug": "palworld",
+      "genres": [
+        "Survival",
+        "Adventure",
+        "Crafting"
+      ],
+      "platforms": [
+        "PC",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "Xbox Store"
+      ],
+      "price": 29.99,
+      "rating": 4.3,
+      "releaseYear": 2024,
+      "stock": 62,
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0207/5a52ade92affafa4c4353c97110026811a365b65d6bad64e.jpg",
+      "edition": "Standard",
+      "ageRating": "12+",
+      "description": "Survival i crafting avantura sa bazom, skupljanjem stvorenja i co-op igranjem.",
+      "tags": [
+        "survival",
+        "base",
+        "co-op"
+      ]
+    },
+    {
+      "id": "g021",
+      "title": "Resident Evil 4",
+      "slug": "resident-evil-4",
+      "genres": [
+        "Horror",
+        "Action",
+        "Survival"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "PlayStation Store",
+        "Xbox Store"
+      ],
+      "price": 49.99,
+      "rating": 4.7,
+      "releaseYear": 2023,
+      "stock": 31,
+      "cover": "https://game.capcom.com/residentevil/pc/img/lineup/en/lineup-re4-ge.jpg",
+      "edition": "Gold",
+      "ageRating": "18+",
+      "description": "Napeti survival horror remake sa modernom borbom, atmosferom i kultnim lokacijama.",
+      "tags": [
+        "horror",
+        "remake",
+        "survival"
+      ],
+      "discountPercent": 22
+    },
+    {
+      "id": "g022",
+      "title": "Alan Wake 2",
+      "slug": "alan-wake-2",
+      "genres": [
+        "Horror",
+        "Adventure",
+        "Story"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Epic Games",
+        "PlayStation Store",
+        "Xbox Store"
+      ],
+      "price": 59.99,
+      "rating": 4.6,
+      "releaseYear": 2023,
+      "stock": 29,
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/83ef93949d474052cc87b86617a5498505d4b50390280394.jpg",
+      "edition": "Deluxe",
+      "ageRating": "18+",
+      "description": "Psihološki horror triler sa detektivskom strukturom, snažnom režijom i napetim scenama.",
+      "tags": [
+        "horror",
+        "detective",
+        "cinematic"
+      ],
+      "discountPercent": 15
+    },
+    {
+      "id": "g023",
+      "title": "Marvel's Spider-Man 2",
+      "slug": "marvels-spider-man-2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Open World"
+      ],
+      "platforms": [
+        "PlayStation 5",
+        "PC"
+      ],
+      "launchers": [
+        "PlayStation Store",
+        "Steam"
+      ],
+      "price": 69.99,
+      "rating": 4.7,
+      "releaseYear": 2023,
+      "stock": 36,
+      "cover": "https://gmedia.playstation.com/is/image/SIEPDC/spider-man-2-keyart-01-en-7june24?$facebook$",
+      "edition": "Digital Deluxe",
+      "ageRating": "16+",
+      "description": "Brza superhero akcija sa letenjem kroz grad, borbom, bossovima i filmskom kampanjom.",
+      "tags": [
+        "superhero",
+        "city",
+        "action"
+      ]
+    },
+    {
+      "id": "g024",
+      "title": "The Last of Us Part I",
+      "slug": "the-last-of-us-part-i",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Story"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5"
+      ],
+      "launchers": [
+        "Steam",
+        "PlayStation Store"
+      ],
+      "price": 59.99,
+      "rating": 4.7,
+      "releaseYear": 2022,
+      "stock": 25,
+      "cover": "https://cdn1.epicgames.com/offer/0c40923dd1174a768f732a3b013dcff2/EGS_TheLastofUsPartI_NaughtyDogLLC_S1_2560x1440-3659b5fe340f8fc073257975b20b7f84",
+      "edition": "Standard",
+      "ageRating": "18+",
+      "description": "Emotivna postapokaliptična avantura sa stealth borbom, istraživanjem i snažnom pričom.",
+      "tags": [
+        "story",
+        "survival",
+        "cinematic"
+      ]
+    },
+    {
+      "id": "g025",
+      "title": "Assassin's Creed Mirage",
+      "slug": "assassins-creed-mirage",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Stealth"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Ubisoft Connect",
+        "Epic Games",
+        "PlayStation Store"
+      ],
+      "price": 49.99,
+      "rating": 4.1,
+      "releaseYear": 2023,
+      "stock": 53,
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/NFf86jgU4AeVYgJBEoEKBpxW.jpg",
+      "edition": "Deluxe",
+      "ageRating": "18+",
+      "description": "Povratak stealth korenima serijala sa parkourom, skrivenim ubistvima i istorijskim Bagdadom.",
+      "tags": [
+        "stealth",
+        "parkour",
+        "history"
+      ],
+      "discountPercent": 20
+    },
+    {
+      "id": "g026",
+      "title": "Diablo IV",
+      "slug": "diablo-iv",
+      "genres": [
+        "Action RPG",
+        "Hack and Slash",
+        "Online"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Battle.net",
+        "Steam",
+        "PlayStation Store"
+      ],
+      "price": 69.99,
+      "rating": 4.2,
+      "releaseYear": 2023,
+      "stock": 44,
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3017/Oo1B84A7BLCT157YFSxjtwG0.png",
+      "edition": "Ultimate",
+      "ageRating": "18+",
+      "description": "Mračni action RPG sa klasama, lootom, dungeonima, sezonama i online progresijom.",
+      "tags": [
+        "loot",
+        "dungeons",
+        "classes"
+      ],
+      "discountPercent": 15
+    },
+    {
+      "id": "g027",
+      "title": "Mortal Kombat 1",
+      "slug": "mortal-kombat-1",
+      "genres": [
+        "Fighting",
+        "Action",
+        "Competitive"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S",
+        "Nintendo Switch"
+      ],
+      "launchers": [
+        "Steam",
+        "PlayStation Store",
+        "Nintendo eShop"
+      ],
+      "price": 59.99,
+      "rating": 4.2,
+      "releaseYear": 2023,
+      "stock": 38,
+      "cover": "https://mondoshop.com/cdn/shop/files/MortalKombat1-FC.jpg?v=1769102085&width=2000",
+      "edition": "Premium",
+      "ageRating": "18+",
+      "description": "Brutalni fighting naslov sa novim timelineom, kameo borcima i online mečevima.",
+      "tags": [
+        "fighting",
+        "versus",
+        "competitive"
+      ]
+    },
+    {
+      "id": "g028",
+      "title": "Tekken 8",
+      "slug": "tekken-8",
+      "genres": [
+        "Fighting",
+        "Action",
+        "Competitive"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "PlayStation Store",
+        "Xbox Store"
+      ],
+      "price": 69.99,
+      "rating": 4.6,
+      "releaseYear": 2024,
+      "stock": 41,
+      "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1778820/capsule_616x353.jpg?t=1770678135",
+      "edition": "Deluxe",
+      "ageRating": "16+",
+      "description": "Precizan 3D fighting sa velikim rosterom, Heat sistemom i snažnim online režimima.",
+      "tags": [
+        "fighting",
+        "ranked",
+        "arcade"
+      ]
+    },
+    {
+      "id": "g029",
+      "title": "Cities: Skylines II",
+      "slug": "cities-skylines-ii",
+      "genres": [
+        "Simulation",
+        "Strategy",
+        "Management"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "launchers": [
+        "Steam",
+        "Xbox Store",
+        "PlayStation Store"
+      ],
+      "price": 49.99,
+      "rating": 3.9,
+      "releaseYear": 2023,
+      "stock": 34,
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2409/6ddb1f25a25495acc66d4edb1903146531912de496c16097.jpg",
+      "edition": "Ultimate",
+      "ageRating": "3+",
+      "description": "Simulacija gradnje grada sa transportom, zoniranjem, ekonomijom i infrastrukturom.",
+      "tags": [
+        "city builder",
+        "management",
+        "simulation"
+      ]
+    },
+    {
+      "id": "g030",
+      "title": "Stardew Valley",
+      "slug": "stardew-valley",
+      "genres": [
+        "Simulation",
+        "RPG",
+        "Cozy"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S",
+        "Nintendo Switch",
+        "Mobile"
+      ],
+      "launchers": [
+        "Steam",
+        "GOG",
+        "Nintendo eShop"
+      ],
+      "price": 14.99,
+      "rating": 4.9,
+      "releaseYear": 2016,
+      "stock": 90,
+      "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg?t=1754692865",
+      "edition": "Standard",
+      "ageRating": "7+",
+      "description": "Opustajuća farma sa odnosima, pecanjem, rudnicima, sezonama i co-op progresijom.",
+      "tags": [
+        "farm",
+        "cozy",
+        "co-op"
+      ],
+      "discountPercent": 30
+    }
+  ]
+}

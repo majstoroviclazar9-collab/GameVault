@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "u_admin",
+      "name": "Admin",
+      "email": "admin@gamevault.test",
+      "passwordHash": "9528d5c410d473d3890389e61040efc7c506277e3a9ed812e6cff3ae624099ff",
+      "salt": "gamevault-admin",
+      "role": "admin",
+      "createdAt": "2026-04-26T10:00:00.000Z"
+    },
+    {
+      "id": "b7575c19-437a-43c3-a320-ab93806dabbf",
+      "name": "Martin",
+      "email": "martin987@gmail.com",
+      "passwordHash": "52a1c0d6f87ca1785a98c93450594829e9f7a46ce36902340702cef812de1635",
+      "salt": "ad0aee1d8878ed6b23172546",
+      "role": "user",
+      "createdAt": "2026-04-26T18:31:08.435Z"
+    },
+    {
+      "id": "6e4996ca-07ce-41fe-b2c8-f83a6e599087",
+      "name": "Bojan",
+      "email": "bojaaaa@gmail.com",
+      "passwordHash": "99df1f0a0e5facdd96ba0907bb451672950e1081588b118f58827cbbd5639bbf",
+      "salt": "9c4a4a98a8ee5b887901fb1a",
+      "role": "user",
+      "createdAt": "2026-04-26T19:40:48.119Z"
+    },
+    {
+      "id": "77a5b527-6421-4b2a-89b9-f28e8a826345",
+      "name": "Ana",
+      "email": "ana009@gmail.com",
+      "passwordHash": "a7f14e6840d6623a9548bba32e0d87892f0c2732f1ff942bea79a436897935f9",
+      "salt": "c648fa1622a25ad71312729a",
+      "role": "user",
+      "createdAt": "2026-04-26T19:56:28.949Z"
+    },
+    {
+      "id": "bc7bfd88-66f5-4c66-9b80-5fe3b7ab2778",
+      "name": "Mihajlo",
+      "email": "miha123@gmail.com",
+      "passwordHash": "f9b1abff43351220ea8b428072c4a1066138fc11df1fffe79d77205702ed9d02",
+      "salt": "d602b1f81afb222ad6637bc9",
+      "role": "user",
+      "createdAt": "2026-04-26T20:03:06.195Z"
+    },
+    {
+      "id": "2f6610b9-9fbd-4349-8c13-1ebcfee48152",
+      "name": "Lazar",
+      "email": "majstoroviclazar9@gmail.com",
+      "passwordHash": "b56a89dbbeffbae49877f0df312a6283817dbbdcd3246261a6e62b4d731f0632",
+      "salt": "fadd4485242ebd57ef00c4e2",
+      "role": "user",
+      "createdAt": "2026-04-26T21:45:29.609Z"
+    }
+  ]
+}
