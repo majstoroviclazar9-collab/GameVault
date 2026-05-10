@@ -15,7 +15,6 @@ Projekat je podeljen na dva glavna dela:
 - React
 - Vite
 - Axios
-- Stripe
 - Node.js
 - Express.js
 - JWT auth tokeni
@@ -37,7 +36,6 @@ Projekat je podeljen na dva glavna dela:
 - Footer sa osnovnim linkovima
 - Korpa sa promenom kolicine
 - Posebna checkout stranica sa adresom i karticom
-- Stripe Payment Element za karticno placanje
 - Popusti na odredjene igre
 - Wishlist sistem
 - Dashboard sa kupljenim igrama, kolicinama i porudzbinama
