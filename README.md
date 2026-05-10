@@ -98,13 +98,6 @@ cd backend
 npm start
 ```
 
-Za Stripe test placanje napraviti `backend/.env` na osnovu `backend/.env.example` i dodati svoje Stripe test kljuceve:
-
-```text
-STRIPE_SECRET_KEY=sk_test_...
-STRIPE_PUBLISHABLE_KEY=pk_test_...
-```
-
 Frontend se pokrece u drugom terminalu:
 
 ```powershell
