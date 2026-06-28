@@ -1,4 +1,10 @@
 # GameVault
+<img width="1877" height="903" alt="Screenshot 2026-06-28 213423" src="https://github.com/user-attachments/assets/bdbb60ec-ef15-4348-a0b4-02ce70d17e0b" />
+<img width="1862" height="901" alt="Screenshot 2026-06-28 213352" src="https://github.com/user-attachments/assets/646ab232-a634-4d7b-ac23-e9a8b281948d" />
+<img width="1852" height="902" alt="Screenshot 2026-06-28 213341" src="https://github.com/user-attachments/assets/6fbe54b7-9575-4c3b-957f-d247ffc9069a" />
+<img width="1860" height="891" alt="Screenshot 2026-06-28 213325" src="https://github.com/user-attachments/assets/626d2af3-1702-443f-a214-cc2499ac0873" />
+<img width="1865" height="900" alt="Screenshot 2026-06-28 213301" src="https://github.com/user-attachments/assets/3ab67a26-c522-424c-925f-df27cb0290bc" />
+
 
 GameVault je web aplikacija za kupovinu digitalnih igrica. Sajt ima katalog popularnih igara, filtere po zanru, platformi i launcheru, korpu, wishlistu, checkout stranicu, login/register sistem i korisnicki dashboard.
 
